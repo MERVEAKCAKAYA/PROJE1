@@ -1,0 +1,16 @@
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.exe
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.deps.json
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.json
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.dev.json
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.dll
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\bin\Debug\net5.0\ref\TelefonRehberi.dll
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.pdb
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfo.cs
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.dll
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\obj\Debug\net5.0\ref\TelefonRehberi.dll
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.pdb
+C:\Users\merve\Desktop\DOTNETCORE\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.genruntimeconfig.cache
